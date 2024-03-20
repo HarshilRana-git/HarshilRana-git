@@ -13,7 +13,7 @@
   </div>
 
   <div class="column">
-    https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+   <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="display: block; opacity: 1;">
   </div>
 </div>
 </div>
