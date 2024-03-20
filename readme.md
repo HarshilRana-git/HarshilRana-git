@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshil Rana</h1>
 <h3 align="center">Passionate full stack developer specializing in creating dynamic and intuitive digital solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" autoplay>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshilRana-git&label=Profile%20views&color=0e75b6&style=flat" alt="HarshilRana-git" /> </p>
 
 <p align="left"> <a href="https://instagram.com/urstrulyharshil" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="HarshilRana" /></a> </p>
