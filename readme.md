@@ -2,7 +2,8 @@
   
 
 ### <div align="center">"Hi, I'm Harshil, a freelance full-stack developer specializing in creating dynamic and intuitive digital solutions."</div>  
-  
+
+<div class="container">
 <div class="row">
   <div class="column">
 - 🌱 I’m currently learning NextJs and AWS  
@@ -14,6 +15,7 @@
   <div class="column">
     https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
   </div>
+</div>
 </div>
 <br/>  
 
