@@ -3,13 +3,18 @@
 
 ### <div align="center">"Hi, I'm Harshil, a freelance full-stack developer specializing in creating dynamic and intuitive digital solutions."</div>  
   
-
+<div class="row">
+  <div class="column">
 - 🌱 I’m currently learning NextJs and AWS  
   
 
 - ❓ Ask me about anything related to MERN/MEAN stack and related technologies  
-  
+  </div>
 
+  <div class="column">
+    https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+  </div>
+</div>
 <br/>  
 
 
@@ -97,6 +102,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
