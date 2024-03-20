@@ -1,4 +1,4 @@
-<body style="color=white">jsfljsdl;
+<body style="color:white">jsfljsdl;
 dfsdd
 afdsf</body>
 <h1 align="center">Hi 👋, I'm Harshil Rana</h1>
