@@ -13,7 +13,7 @@
   </div>
 
   <div class="column">
-   <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="display: block; opacity: 1; height:400; width:300">
+   <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="display: block; opacity: 1; height:400px; width:300px">
   </div>
 </div>
 </div>
