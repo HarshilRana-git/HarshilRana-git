@@ -8,7 +8,7 @@
 
 - 🌱 Im currently learning **NextJs** & **AWS**
 
-- 👨‍💻 All of my projects are available at [HarshilRana-git](HarshilRana-git)
+- 👨‍💻 All of my projects are available at [HarshilRana-git]([HarshilRana-git](https://github.com/HarshilRana-git?tab=repositories))
 
 - 💬 Ask me about **MERN/MEAN stack and related technologies**
 
