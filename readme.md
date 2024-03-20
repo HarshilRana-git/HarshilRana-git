@@ -3,19 +3,18 @@
 
 ### <div align="center">"Hi, I'm Harshil, a freelance full-stack developer specializing in creating dynamic and intuitive digital solutions."</div>  
 
-<div class="container">
-  <div class="row">
-    <div class="column" style="float: left; width: 50%;">
+<div style="display: flex;">
+    <div>
       <ul>
         <li>🌱 I’m currently learning Next.js and AWS</li>
         <li>❓ Ask me about anything related to MERN/MEAN stack and related technologies</li>
       </ul>
     </div>
-    <div class="column" style="float: right; width: 50%;">
+    <div>
       <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" height="400" width="300">
-    </div>
   </div>
 </div>
+
 
 <br/>  
 
